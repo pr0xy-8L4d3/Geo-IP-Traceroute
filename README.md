@@ -1,7 +1,7 @@
 # Geo-IP-Traceroute
 Traceroute the hostname or IP and locate the IPs.
-
-Requirements:
+___
+***Requirements:***
 
 Python3
 
@@ -10,14 +10,14 @@ pip3
 scapy
 
 ipapi
+___
 
-
-Installation:
+***Installation:***
 
 If you do not have already installed pip3 install it:
 
 apt-get install python3-pip
-
+___
 
 
 git clone https://github.com/pr0xy-8L4d3/Geo-IP-Traceroute.git
