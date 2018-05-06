@@ -4,8 +4,11 @@ Traceroute the hostname or IP and locate the IPs.
 Requirements:
 
 Python3
+
 pip3
+
 scapy
+
 ipapi
 
 Installation:
@@ -26,3 +29,4 @@ pip3 install -r requirements.txt
 chmod +x Geo_IP_Traceroute.py
 
 python3 Geo_IP_Traceroute.py
+
