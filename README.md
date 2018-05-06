@@ -20,15 +20,15 @@ apt-get install python3-pip
 ___
 
 
-git clone https://github.com/pr0xy-8L4d3/Geo-IP-Traceroute.git
+* git clone https://github.com/pr0xy-8L4d3/Geo-IP-Traceroute.git
 
-cd Geo-IP-Traceroute
+* cd Geo-IP-Traceroute
 
-cd Geo_IP_Traceroute
+* cd Geo_IP_Traceroute
 
-pip3 install -r requirements.txt
+* pip3 install -r requirements.txt
 
-chmod +x Geo_IP_Traceroute.py
+* chmod +x Geo_IP_Traceroute.py
 
-python3 Geo_IP_Traceroute.py
+* python3 Geo_IP_Traceroute.py
 
