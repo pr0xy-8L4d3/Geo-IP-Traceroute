@@ -1,7 +1,8 @@
 # Geo-IP-Traceroute
-Traceroute the hostname or IP and locate the IPs:
+Traceroute the hostname or IP and locate the IPs.
 
 Requirements:
+
 Python3
 pip3
 scapy
